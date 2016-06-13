@@ -1,1 +1,4 @@
 *.ipynb_checkpoints
+notebooks/Reuters_MLP_model
+notebooks/output_model
+*__pycache__
